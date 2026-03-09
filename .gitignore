@@ -1,2 +1,5 @@
 deepmimo_scenarios/
 .venv/
+MUSIC_EXP
+results_*
+deepmimo_outputs
