@@ -3,3 +3,9 @@ deepmimo_scenarios/
 MUSIC_EXP
 results_*
 deepmimo_outputs
+montecarlo_*
+montecarlo*
+tablesgenerator.py
+plotting.py
+*.csv
+*.tex
